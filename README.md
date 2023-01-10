@@ -39,4 +39,4 @@ The actions that could be taken were either 'nothing', 'fire left engine', 'fire
 
 All code is implemented in th `main.py` file. Make sure to have all `requirements.txt` installed.
 
-This project was part of the Probabilistic Artificial Intelligence course at ETH. The skeleton (i.e. the auxiliary functions) was provided through the course while the core functionality was implemented by the author.
+This project was part of the Probabilistic Artificial Intelligence course at ETH. The skeleton was provided through the course while the core functionality was implemented by the author.
